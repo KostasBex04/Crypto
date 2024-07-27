@@ -1,7 +1,7 @@
 {
     "name": "Suricata",
     "symbol": "SCAT",
-    "descripion": "Suricata Token ($SCAT) is a versatile digital asset on the Solana blockchain. Named after the vigilant meerkat, $SCAT represents community, speed, and security. It enables fast, secure transactions and access to various dApps within the Solana ecosystem. Join the Suricata community and experience the future of decentralized finance.",
+    "description": "Suricata Token ($SCAT) is a versatile digital asset on the Solana blockchain. Named after the vigilant meerkat, $SCAT represents community, speed, and security. It enables fast, secure transactions and access to various dApps within the Solana ecosystem. Join the Suricata community and experience the future of decentralized finance.",
     "image": "https://link.to/your/token/image.png",
     "properties": {
       "files": [
