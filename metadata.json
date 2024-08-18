@@ -1,0 +1,25 @@
+{
+  "name": "Suricata",
+  "symbol": "SCAT",
+  "uri": "https://raw.githubusercontent.com/KostasBex04/Crypto/main/metadata.json",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "66krQ22GZppY1mpVZs5wcF7BukzgdPE5YLEWtLiijNiT",
+  "seller_fee_collection_address": "66krQ22GZppY1mpVZs5wcF7BukzgdPE5YLEWtLiijNiT",
+  "image": "https://raw.githubusercontent.com/KostasBex04/Crypto/main/logo.png",
+  "seller_fee_burn_address": null,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/KostasBex04/Crypto/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "digital",
+    "creators": [
+      {
+        "address": "66krQ22GZppY1mpVZs5wcF7BukzgdPE5YLEWtLiijNiT",
+        "share": 100
+      }
+    ]
+  }
+}
