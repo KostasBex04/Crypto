@@ -1,15 +1,25 @@
 {
-    "name": "Suricata",
-    "symbol": "SCAT",
-    "description": "Suricata Token ($SCAT) is a versatile digital asset on the Solana blockchain. Named after the vigilant meerkat, $SCAT represents community, speed, and security. It enables fast, secure transactions and access to various dApps within the Solana ecosystem. Join the Suricata community and experience the future of decentralized finance.",
-    "image": "https://link.to/your/token/image.png",
-    "properties": {
-      "files": [
-        {
-          "uri": "https://raw.githubusercontent.com/KostasBex04/Crypto/main/logo.png",
-          "type": "image/png"
-        }
-      ]
-    }
+  "name": "Suricata",
+  "symbol": "SCAT",
+  "uri": "https://raw.githubusercontent.com/KostasBex04/Crypto/main/metadata.json",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "66krQ22GZppY1mpVZs5wcF7BukzgdPE5YLEWtLiijNiT",
+  "seller_fee_collection_address": "66krQ22GZppY1mpVZs5wcF7BukzgdPE5YLEWtLiijNiT",
+  "image": "https://raw.githubusercontent.com/KostasBex04/Crypto/main/logo.png",
+  "seller_fee_burn_address": null,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/KostasBex04/Crypto/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "digital",
+    "creators": [
+      {
+        "address": "66krQ22GZppY1mpVZs5wcF7BukzgdPE5YLEWtLiijNiT",
+        "share": 100
+      }
+    ]
   }
-  
+}
